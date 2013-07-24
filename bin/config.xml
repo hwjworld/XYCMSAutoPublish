@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopublish>
+	<!-- 服务器地址，有端口需带上端口,如(172.32.4.30:80) -->
+	<ip>172.32.4.191:10001</ip>
+	<username>cjm</username>
+	<!-- md5 加密过后的值 -->
+	<passwd>10038bcc6fb80cc24d89f10b810b2c9a</passwd>
+	<!-- CN中文/EN英文 -->
+	<language>CN</language>
+	<!-- 发布间隔时间,单位:分钟,不支持浮点 -->
+	<interval>10</interval>
+	<!-- 发的的栏目的开始与结束日期间隔(结束日期为今天),单位：天,不支持浮点 -->
+	<pub-time>1</pub-time>
+	<!-- 站点id -->
+	<siteid>3</siteid>
+	<!-- 固定了发布不包含稿件 -->
+</autopublish>
